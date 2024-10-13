@@ -1,0 +1,38 @@
+{
+    "difficulties": {
+        "Beginner": [
+            9,
+            9,
+            10
+        ],
+        "Intermediate": [
+            16,
+            16,
+            40
+        ],
+        "Expert": [
+            30,
+            16,
+            99
+        ]
+    },
+    "tile_colors": {
+        "0": "#7d6e6e",
+        "1": "#0063ff",
+        "2": "#008501",
+        "3": "red",
+        "4": "#010084",
+        "5": "#840000",
+        "6": "#018284",
+        "7": "#850083",
+        "8": "#777777"
+    },
+    "custom_maps": {
+        "ukraine": "bo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo0oo0oo-1oo-1oo0oo0oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo-1oo0oo0oo-1oo-1oo0oo0oo-1oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo-1oo0oo0oo-1oo-1oo0oo0oo-1oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo-1oo0oo-1oo-1oo0oo-1oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo-1oo0oo-1oo-1oo0oo-1oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo-1oo0oo-1oo-1oo0oo-1oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo-1oo0oo-1oo-1oo0oo-1oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo-1oo0oo-1oo-1oo0oo-1oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo-1oo0oo0oo-1oo-1oo0oo0oo-1oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo-1oo-1oo0oo0oo-1oo-1oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo0oo0oo-1oo-1oo-1oo-1oo0oo0oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo-1oo-1oo-1oo-1oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo-1oo-1oo-1oo-1oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo-1oo-1oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0ob",
+        "bob": "bo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo1oo2oo3oo3oo3oo3oo2oo1oo0oo0oo1oo2oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo2oo1oo0oo1oo2oo3oo3oo3oo3oo2oo1oo0oo0oo0obbo0oo0oo2oo-1oo-1oo-1oo-1oo-1oo-1oo2oo1oo1oo2oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo2oo1oo2oo-1oo-1oo-1oo-1oo-1oo-1oo2oo1oo0oo0obbo0oo0oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo2oo-1oo4oo4oo4oo4oo3oo3oo3oo3oo3oo3oo4oo4oo4oo4oo-1oo2oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo2oo-1oo2oo0oo0oo0oo0oo0oo0oo2oo-1oo2oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo3oo-1oo3oo2oo-1oo2oo0oo0oo0oo0oo0oo0oo2oo-1oo2oo3oo-1oo3oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo0oo0obbo0oo0oo3oo-1oo-1oo-1oo-1oo-1oo-1oo3oo2oo3oo-1oo3oo1oo1oo1oo0oo0oo0oo0oo0oo0oo1oo1oo1oo3oo-1oo3oo3oo-1oo-1oo-1oo-1oo-1oo-1oo3oo2oo0oo0obbo0oo0oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo3oo-1oo4oo1oo1oo0oo0oo0oo0oo0oo0oo0oo0oo1oo1oo4oo-1oo3oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo4oo-1oo2oo1oo0oo0oo0oo0oo0oo0oo1oo2oo-1oo4oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo4oo2oo-1oo3oo3oo3oo3oo3oo3oo3oo3oo-1oo2oo4oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo1oo2oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo2oo1oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo0oo1oo2oo3oo3oo3oo3oo3oo3oo2oo1oo0oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo3oo-1oo3oo3oo-1oo3oo0oo0oo0oo3oo-1oo3oo0oo0obbo0oo0oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo2oo-1oo4oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo4oo-1oo2oo3oo-1oo5oo3oo3oo3oo4oo-1oo2oo0oo0obbo0oo0oo2oo-1oo-1oo-1oo-1oo-1oo-1oo2oo1oo1oo2oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo-1oo2oo1oo2oo-1oo-1oo-1oo-1oo-1oo-1oo2oo1oo0oo0obbo0oo0oo1oo2oo3oo3oo3oo3oo2oo1oo0oo0oo1oo2oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo3oo2oo1oo0oo1oo2oo3oo3oo3oo3oo2oo1oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo1oo2oo2oo2oo2oo2oo2oo2oo2oo1oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo2oo-1oo-1oo4oo-1oo-1oo4oo-1oo-1oo2oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo2oo-1oo-1oo4oo-1oo-1oo4oo-1oo-1oo2oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo1oo2oo2oo2oo2oo2oo2oo2oo2oo1oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0obbo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0oo0ob"
+    },
+    "language": "ua",
+    "theme": "dark",
+    "music": true,
+    "sound_effects": true
+}
