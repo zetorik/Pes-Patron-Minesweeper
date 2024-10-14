@@ -47,7 +47,6 @@ class Minesweeper(Map2D):
         self.mines_left = self.max_mines
 
     def stop_game(self):
-        
         self.game_running = False
         self.mines_left = 0
 
@@ -291,9 +290,8 @@ class MinesweeperMapGenerator:
         if self.start_pos:
             start_tile = self.minesweeper.get_tile(*self.start_pos)
 
-            if start_tile.value == -1:
-                    
-                    return False
+            if start_tile.value != 0:
+                return False
                     
             
             if self.no_guess:
